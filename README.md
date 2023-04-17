@@ -16,7 +16,7 @@ For the final project, we will use CIFAR-10 (Canadian Institute for Advanced Res
 **reports:** includes final project notebooks for submission
 1. **w207_cifar10_final_project_report.ipynb**: Final report containing EDA, and custom CNN model development
 2. **transfer_learning_w207_cifar10_final_project.ipynb**: Extension to final report containing VGG16, ResNet50 experimentation
-3. **preprocessing_with_cnn_model3.ipynb**: Extension to final report containing impact of data augmentation & preprocessing procedures
+3. **cifar10_preprocessing_with_cnn_model3_and_VGG.ipynb**: Extension to final report containing impact of data augmentation & preprocessing procedures on CNN v3 and VGG16
 
 **eda**: includes summary EDA and visualizations for CIFAR-10 dataset
 
